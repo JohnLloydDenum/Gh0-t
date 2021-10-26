@@ -1,2 +1,2 @@
 # Gh0st
-Crud syste,,
+Crud system
